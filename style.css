@@ -8,6 +8,11 @@ article {
  width: 300px;
 }
 
+.monster {
+  width: 200px;
+  height: auto:
+}
+
 img {
  display: block;
  margin-left: auto;
